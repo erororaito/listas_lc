@@ -1,0 +1,46 @@
+Ryan Carlos Cabral de Sousa
+12211BSI265
+→ ⇔ ¬ ∧ ∨ 
+Capítulo 1
+
+1)  a) Não
+
+b) Sim
+
+c) Sim
+
+d) Não
+
+e) Sim
+
+2)  a) Sim, se a fórmula apresentar apenas um símbolo proposicional
+
+b) São 4 tipos, sendo eles: símbolos de pontuação, símbolos proposicionais, conectivos proposicionais e símbolos de verdade
+
+c) Não, caso haja conectivo deve haver símbolo de pontuação
+
+3)  a) ¬ + ¬ + P + ∨ + Q + ⇔ + P + → + Q + ∧ + P₁₀₀₀₀
+comprimento = 11
+
+b) comprimento = 13
+
+c) comprimento = 9
+
+d) comprimento = 5
+
+4)  a) P ⇔ ¬ (P ∨ Q) → R ∧ P
+
+b) ¬ P → (Q V R) ⇔ (P ∧ Q) ⇔ (R V ¬ P)
+
+7) Sim, pois na notação polonesa os conectivos se juntam
+
+b) Não é possível
+
+10) a) comp[H] é ímpar
+
+b) comp[H] = duas vezes conectivos mais um
+
+Capítulo 2
+
+3) Não, diferentemente da realidade, na lógica proposicional o "ou" não exclui possibilidades, ao passo que não é possível ir ao teatro e ao cinema, mas na 
+lógica proposicional é possível. É necessário que apenas uma condição seja satisfeita para a sentença ser verdadeira.
